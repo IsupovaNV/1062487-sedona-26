@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Nadezhda](https://up.htmlacademy.ru/htmlcss/26/user/1062487).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Мулярчик](https://htmlacademy.ru/profile/ivanmuliarchyk)
 
 ---
 
